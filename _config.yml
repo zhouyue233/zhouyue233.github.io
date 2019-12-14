@@ -1,10 +1,10 @@
 # Site
-title:          周悦
-bio:            'zhouyue'
-description:    "高山仰止，景行行止"
-picture:        'assets/img/profile.png'
-locale:         en_US
-url:            https://zhouyue233.github.io/
+title: 周悦
+bio: 'zhouyue'
+description: "高山仰止，景行行止"
+picture: 'assets/img/profile.png'
+locale: en_US
+url: https://zhouyue233.github.io/
 
 
 # Jekyll
