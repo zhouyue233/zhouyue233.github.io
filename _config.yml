@@ -21,19 +21,6 @@ sass:
   sass_dir: _sass
   style: compressed
 
-// Colors
-$blue: #3498db;
-$orange: #e67e22;
-$red: #e74c3c;
-$white: #ecf0f1;
-$green: #2ecc71;
-$turko: #1abc9c;
-$purple: #9b59b6;
-$dark-blue: #34495e;
-
-$main-color: #9b59b6;
-$background-color: #e67e22;
-$thrid-color: rgba(52, 152, 219, 0.8);
 
 # Social
 # if you don't have any of social below, comment the line.
